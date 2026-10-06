@@ -1,7 +1,7 @@
-#🎓 First-Year Internship: PCB Design using KiCad
+# 🎓 First-Year Internship: PCB Design using KiCad
 
 
- ##🏢 Internship at a Glance
+ ## 🏢 Internship at a Glance
 
 | Detail        | Information                                        |
 |---------------|----------------------------------------------------|
@@ -15,7 +15,7 @@
 
 ---
 
-##🛠️ What I Did
+## 🛠️ What I Did
 
 - Learned the PCB design flow in **KiCad**, from schematic to finished board
 - Drew the **schematic** for a fridge door alarm circuit
