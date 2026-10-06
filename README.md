@@ -27,6 +27,7 @@
 
 ## 📌 Project: Fridge Door Alarm Circuit
 
+
 An alarm circuit that warns the user when a fridge door is left open. It uses an **LDR** as a light sensor, two **NE555 timers** for timing and tone generation, and a **buzzer with an LED** as the output. The circuit runs from a 9 V supply.
 ---
 
