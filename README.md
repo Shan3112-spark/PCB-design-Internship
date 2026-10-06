@@ -58,7 +58,6 @@ An alarm circuit that warns the user when a fridge door is left open. It uses an
 I thank **Enthu Technology Solutions Pvt Ltd** for the opportunity and guidance during my first-year internship.
 
 ---
-
 ## 📄 License
 
-Shared for learning and portfolio purposes.
+This project is open source and available under the [MIT License](LICENSE).
